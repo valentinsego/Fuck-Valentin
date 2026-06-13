@@ -5,6 +5,8 @@
 
 # Unreal Datamining Is Fucked Under Valentin
 
+This is all my opinion and my experience with the shitty Unreal Modding Datamining scene run by Valentin.
+
 **The current state of Unreal Engine datamining is completely fucked**, and a huge part of that comes down to the people currently holding power over the tools and knowledge everyone depends on.
 
 I'm talking about **FModel, CUE4Parse, FortnitePorting**, and the circle around **Asval, Marlon, and their friends**.
